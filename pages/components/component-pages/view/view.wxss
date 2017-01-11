@@ -1,0 +1,10 @@
+.page{
+	height:100%;
+}
+.flex-wrp{
+	display:flex;
+	align-content:space-between;
+}
+.flex-item{
+	flex:1 1 100px;
+}

@@ -1,4 +1,8 @@
 /**app.wxss**/
+page {
+  background-color: #fbf9fe;
+  height: 100%;
+}
 .container {
   height: 100%;
   display: flex;
@@ -8,3 +12,43 @@
   padding: 200rpx 0;
   box-sizing: border-box;
 } 
+.bc_green{
+    background-color: #09BB07;
+}
+.bc_red{
+    background-color: #F76260;
+}
+.bc_blue{
+    background-color: #10AEFF;
+}
+.bc_yellow{
+    background-color: #FFBE00;
+}
+.bc_gray{
+    background-color: #C9C9C9;
+}
+.page__hd{
+	height:200rpx;
+	padding:20rpx;
+	display:flex;
+	flex-direction:column;
+}
+.page__title{
+    display: inline-block;
+    padding: 20rpx 40rpx;
+    font-size: 32rpx;
+    color: #AAAAAA;
+    border-bottom: 1px solid #CCCCCC;
+}
+.page__desc{
+    margin-top: 20rpx;
+    font-size: 26rpx;
+    color: #BBBBBB;
+}
+
+.section{
+    margin-bottom: 80rpx;
+}
+.page__bd{
+	padding:20rpx;
+}
