@@ -2,7 +2,10 @@
   "pages":[
     "pages/components/index",
     "pages/API/API",
-    "pages/components/component-pages/view/view"
+    "pages/components/component-pages/view/view",
+    "pages/components/component-pages/scroll-view/scroll-view",
+    "pages/components/component-pages/swiper/swiper",
+    "pages/components/component-pages/form/form"
   ],
   "window":{
     "backgroundTextStyle":"light",
