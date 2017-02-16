@@ -8,18 +8,6 @@ Page({
 				pages: ['view', 'scroll-view', 'swiper']
 			}, 
 			{
-				id: 'content',
-				name: '基础内容',
-				open: false,
-				pages: ['text', 'icon', 'progress']
-			}, 
-			{
-				id: 'form',
-				name: '表单组件',
-				open: false,
-				pages: ['button', 'checkbox', 'form', 'input', 'label', 'picker', 'radio', 'slider', 'switch']
-			}, 
-			{
 				id: 'feedback',
 				name: '操作反馈',
 				open: false,
