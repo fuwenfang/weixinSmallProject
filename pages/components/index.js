@@ -13,9 +13,6 @@ Page({
 				open: false,
 				pages: ['action-sheet', 'modal', 'toast', 'loading']
 			}, 
-			{
-				id: 'nav',
-				name: '导航',
 				open: false,
 				pages: ['navigator']
 			}, 
