@@ -22,9 +22,7 @@ Page({
 				open: false,
 				pages: ['image', 'audio', 'video']
 			}, 
-			{
-				id: 'map',
-				name: '地图',
+			{'地图',
 				pages: ['map']
 			}, 
 			{
